@@ -1,0 +1,21 @@
+NETWORK INTRUSION DETECTION REPORT
+=============================================
+Generated: 2026-11-08 13:44:21.055034
+Total Security Alerts: 1
+
+INCIDENT 1
+------------------------------
+Timestamp: 2026-11-08T13:44:21
+Source IP: 192.168.1.10
+Destination IP: 192.168.1.20
+Attack Type: Potential Port Scan
+Ports Scanned: 5
+Severity: HIGH
+
+Recommended Response Actions:
+1. Investigate the suspicious source IP.
+2. Review firewall and network traffic logs.
+3. Check for unauthorised connection attempts.
+4. Consider blocking the source IP if malicious activity is confirmed.
+5. Escalate the incident to the SOC team if necessary.
+

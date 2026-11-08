@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Real network captures (may contain private data)
+data/network_capture.pcapng
